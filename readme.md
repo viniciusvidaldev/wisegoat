@@ -58,7 +58,7 @@ Exemplo: `<img src="http://placegoat.com/200/200" alt="Bodezinho">`
 # Dicas
 
 ## Cores:
-Roxo: #72005F<br>
+Roxo: #72005F
 Bege: #BAA193
 
 ## Modelo:
